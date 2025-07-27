@@ -29,7 +29,7 @@ export class ClaraApiService {
   private stopExecution: boolean = false;
 
   // Flowise endpoint URL
-  private flowiseEndpoint = "https://q0z0ngxj.rpcl.host/api/v1/prediction/b3eeb67d-6d20-4555-93a6-a89b99f95d2c";
+  private flowiseEndpoint = "https://hqg4f4xc.rcld.dev/api/v1/prediction/2a9eb7c3-b451-45ad-9b85-f5696414ed5f";
 
   constructor() {
     // Initialize the recovery service
